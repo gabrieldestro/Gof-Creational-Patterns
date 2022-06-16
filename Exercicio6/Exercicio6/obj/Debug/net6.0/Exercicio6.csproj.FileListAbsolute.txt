@@ -1,0 +1,15 @@
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.exe
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.deps.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.runtimeconfig.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\bin\Debug\net6.0\Exercicio6.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.csproj.AssemblyReference.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.AssemblyInfo.cs
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\refint\Exercicio6.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\Exercicio6.genruntimeconfig.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Padroes Criacionais GOF\MeusExercicios\Exercicio6\Exercicio6\obj\Debug\net6.0\ref\Exercicio6.dll
